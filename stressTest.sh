@@ -1,16 +1,16 @@
 
 ## %CPU%
-x=0
+a=0
 
 while [ True ];do
-	x=$x+1
+	a=$a+1
 done;
 
 ## memory
-b="a"
+b="c"
 
 while [ True ];do
-	x=$x$x
+	b=$b$b
 done;
 
 ## io
